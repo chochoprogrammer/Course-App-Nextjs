@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DesignHive
+This this the optimized version of [DesignHive](https://github.com/chochoprogrammer/Course-App) project. This one is built with Nextjs as the frontend and Nodejs as the backend.
 
-## Getting Started
+
+## Setup
 
 First, run the development server:
 
